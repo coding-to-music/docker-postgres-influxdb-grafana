@@ -1,6 +1,6 @@
 # docker-postgres-influxdb-grafana
 
-# 🚀 Multi-container docker app with Postgres, InfluxDB and Grafana. Building animated maps with GeoLoop Panel plugin. 🚀
+# 🚀 Multi-container docker app with Postgres, InfluxDB and Grafana. Building animated maps with GeoLoop Panel plugin. Using COVID-19 data 🚀
 
 https://github.com/coding-to-music/docker-postgres-influxdb-grafana
 
