@@ -1,0 +1,24 @@
+{
+  "name": "docker-postgres-influxdb-grafana",
+  "version": "1.0.0",
+  "description": "This tutorial provides a quick guide of how to install a dashboard environment  from Grafana, Postgres and InfluxDB with docker-compose, create map overlays with Worldmap Panel plugin and  build animated maps using GeoLoop Panel plugin.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana/issues"
+  },
+  "homepage": "https://github.com/viktorsapozhok/docker-postgres-influxdb-grafana#readme"
+}

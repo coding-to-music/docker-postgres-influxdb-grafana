@@ -2,3 +2,5 @@
 *.pyc
 scripts/__pychache__/
 docs/build/
+.vscode
+.env
